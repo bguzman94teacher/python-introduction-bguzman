@@ -80,12 +80,6 @@ print("holb" >"hola")
 print("hola"*2)
 
 
-
-
-
-
-
-
 # mirar varibales ambito en funcion
 
 
